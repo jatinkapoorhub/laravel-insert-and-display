@@ -1,0 +1,1 @@
+# laravel-insert-and-display
